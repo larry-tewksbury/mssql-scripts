@@ -1,2 +1,2 @@
-# mssql-scripts
+# MSSQL Scripts
 Miscellaneous Microsoft SQL scripts
